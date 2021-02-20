@@ -1,0 +1,14 @@
+.row {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.card {
+    width: 312px;
+    margin: 25px;
+}
+
+.progress {
+    height: 3px !important;
+    margin: 7px;
+}
